@@ -29,7 +29,7 @@
 
 ## Dataset 📀
 
-https://www.kaggle.com/datasets/vinaykumar11061/atliq-hr-data
+https://www.kaggle.com/datasets
 
 ## Technology  
 Business Intelligence
@@ -47,7 +47,7 @@ Microsoft Software Power BI
 </div>
 
 # PowerBI Dashboard:
-![HR attendance](https://github.com/VINAYDA11061/HR-Recruitment-Analysis/assets/125648329/309a2fc1-00df-424e-a131-978dab4eaa5c)
+![Atliq_HR_Attendence](https://github.com/user-attachments/assets/5f2e78f0-e8f9-4fd8-9541-67e7f14cf841)
 
 
 ## Recommendations and improvement techniques:
